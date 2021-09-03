@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ne0rad
+- 👀 I’m interested in learning full stack programming
+- 🌱 I’m currently learning Javascript / React / NodeJS
+- 📫 Email me on usackasr@gmail.com for any suggestions and/or questions.
